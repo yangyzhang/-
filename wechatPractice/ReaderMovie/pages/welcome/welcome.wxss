@@ -1,0 +1,34 @@
+/* pages/welcome/welcome.wxss */
+
+.container{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+            }
+.user-avatar{
+     width:200rpx; 
+     height: 200rpx;
+     margin-top: 150rpx;}
+.username{
+    font-size: 32rpx;
+    font-weight: bold;
+    margin-top: 150rpx;
+}
+.buttonInView{
+    font-size: 22rpx;
+    font-weight: bold;
+    line-height: 80rpx;
+    color: #405f80;
+}
+.ViewButtonContainer{
+    margin-top:200rpx;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    width: 200rpx;
+    height: 80rpx;
+}
+page{
+    height: 100%;
+    background-color:#b3d4db;
+}
