@@ -1,22 +1,23 @@
 <view>
     <swiper indicator-dots="true" autoplay="true" interval="2000" circular="true">
         <swiper-item>
-            <image class="swiper-image" src="/images/wx.png"></image>
+            <image  src="/images/wx.png"></image>
         </swiper-item>
          <swiper-item>
-            <image class="swiper-image" src="/images/vr.png"></image>
+            <image  src="/images/vr.png"></image>
         </swiper-item>
          <swiper-item>
-            <image class="swiper-image" src="/images/iqiyi.png"></image>
+            <image src="/images/iqiyi.png"></image>
         </swiper-item>      
     </swiper>
+    
     <view class="post-container">
         <view class="author-container">
             <image class="post-author-image" src="/images/avatar/1.png"></image>
             <text class="post-author">sikosiko</text>
         </view>
+        <text class="post-title">大家一起吃蟹吧</text>
         <image class="post-image" src="/images/post/crab.png"></image>
-        <text>大家一起吃蟹吧</text>
         <text class="post-content">正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！</text>
         <view class="post-view">
             <image class="view-image"src="/images/icon/view.png"></image>
@@ -31,8 +32,8 @@
             <image class="post-author-image" src="/images/avatar/2.png"></image>
             <text class="post-author">啊羊羊羊</text>
         </view>
-        <image class="post-image" src="/images/post/xiaolong.jpg"></image>
         <text>大家一起吃蟹吧</text>
+        <image class="post-image" src="/images/post/xiaolong.jpg"></image>
         <text class="post-content">正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！</text>
         <view class="post-view">
             <image class="view-image"src="/images/icon/view.png"></image>
@@ -47,8 +48,8 @@
             <image class="post-author-image" src="/images/avatar/3.png"></image>
             <text class="post-author">七月</text>
         </view>
-        <image class="post-image" src="/images/post/cat.png"></image>
         <text>大家一起吃蟹吧</text>
+        <image class="post-image" src="/images/post/cat.png"></image>
         <text class="post-content">正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！正是吃蟹的好时候啊！</text>
         <view class="post-view">
             <image class="view-image"src="/images/icon/view.png"></image>
