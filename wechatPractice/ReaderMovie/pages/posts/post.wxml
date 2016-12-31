@@ -14,7 +14,7 @@
     <view class="post-container">
         <view class="author-container">
             <image class="post-author-image" src="/images/avatar/1.png"></image>
-            <text class="post-author">sikosiko</text>
+            <text class="post-author">{{test}}</text>
         </view>
         <text class="post-title">大家一起吃蟹吧</text>
         <image class="post-image" src="/images/post/crab.png"></image>

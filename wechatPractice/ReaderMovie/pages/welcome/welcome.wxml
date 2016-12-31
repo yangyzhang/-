@@ -2,7 +2,7 @@
 <view class="container">
     <image class="user-avatar" src="/images/avatar/3.png"></image>
     <text class="username">Hello，二零一七</text>
-    <view class="ViewButtonContainer" >
+    <view class="ViewButtonContainer" bindtap="onTap" >
         <text class="buttonInView">开启新的旅程</text>
     </view>
 </view>
