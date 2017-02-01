@@ -6,7 +6,8 @@ var local_database = [
     reading: 62,
     collection: 92,
     date: "Sep 20 2016",
-    avatar: "/images/avatar/4.png"
+    avatar: "/images/avatar/4.png",
+    postId:0
   },
   {
     title: "当我们在谈论经济学时，我们在谈论什么?",
@@ -16,6 +17,7 @@ var local_database = [
     collection: 92,
     date: "Nov 12 2016",
     avatar: "/images/avatar/3.png",
+    postId:1
   },
   {
     title: "比利·林恩的中场故事",
@@ -25,6 +27,7 @@ var local_database = [
     collection: 92,
     date: "Nov 20 2016",
     avatar: "/images/avatar/1.png",
+    postId:2
   },
   {
     title: "微信·小程序开发工具安装指南",
@@ -34,6 +37,7 @@ var local_database = [
     collection: 92,
     date: "Nov 20 2016",
     avatar: "/images/avatar/5.png",
+    postId:3
   },
   {
     title: "从视觉到触觉 这款VR手套能给你真实触感",
@@ -43,6 +47,7 @@ var local_database = [
     collection: 26,
     date: "Nov 20 2016",
     avatar: "../../../images/avatar/3.png",
+    postId:4
   },
   {
     title: "创维爱奇艺战略合作发布会",
@@ -52,10 +57,11 @@ var local_database = [
     collection: 26,
     date: "Nov 20 2016",
     avatar: "/images/avatar/4.png",
+    postId:5
   },
 ]
 
-console.log("ddddd")
+
 
 module.exports = {
   postList: local_database 

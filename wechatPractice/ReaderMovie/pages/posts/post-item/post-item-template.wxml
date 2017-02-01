@@ -1,4 +1,4 @@
-<template name="loop">
+<template name="postItem">
         <view class="post-container">
             <view class="author-container">
                 <image class="post-author-image" src="{{item.avatar}}"></image>
