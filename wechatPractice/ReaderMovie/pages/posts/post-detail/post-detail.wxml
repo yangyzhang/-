@@ -1,3 +1,18 @@
-<text>
- 这是一个新闻详情页
-</text>
+<view class="container">
+  <image class="head-img" src="/images/post/bl.png"></image>
+  <view class="author-date">
+    <image class="avatar" src="/images/avatar/2.png"></image>
+    <text class="author">周杰伦 </text>
+    <text class="const-text">发表于 </text>
+    <text class="date">三天前 </text>
+  </view>
+  <view>
+    <text>大家喜欢听妈妈的话吗？</text>
+    <view>
+      <image src="/images/icon/collection.png"></image>
+      <image src="/images/icon/share.png"></image>
+    </view>
+    <view></view>
+  </view>
+  <text>喜欢啊，我还喜欢听《稻香》、《说好的幸福呢》</text>
+</view>
