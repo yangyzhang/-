@@ -15,6 +15,7 @@ Page({
       
     }),
     console.log(postId);
+    //test
   }
 })
 
